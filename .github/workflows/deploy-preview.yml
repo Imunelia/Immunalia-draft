@@ -59,4 +59,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-# Triggered after GitHub Pages was enabled for Actions.
+# Manual trigger requested from ChatGPT on 2026-07-16.
