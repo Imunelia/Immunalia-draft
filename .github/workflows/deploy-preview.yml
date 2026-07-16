@@ -59,4 +59,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-# Actions permissions enabled; deployment retriggered from ChatGPT on 2026-07-16.
+# Premium homepage redesign published from ChatGPT on 2026-07-16.
