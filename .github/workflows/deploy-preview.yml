@@ -59,4 +59,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-# Manual trigger requested from ChatGPT on 2026-07-16.
+# Actions permissions enabled; deployment retriggered from ChatGPT on 2026-07-16.
