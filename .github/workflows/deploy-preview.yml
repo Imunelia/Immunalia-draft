@@ -59,4 +59,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-# Specialist portal revision deployed on 2026-07-19.
+# Professional product fronts use IMMUNALIA + PROFESSIONAL; Biotech remains corporate attribution.
