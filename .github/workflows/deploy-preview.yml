@@ -59,4 +59,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-# Complete refresh: larger professional packs and emotional consumer imagery.
+# Manual redeploy requested on 2026-07-19 after confirming the draft publishing setup.
