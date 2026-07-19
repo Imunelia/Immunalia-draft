@@ -59,5 +59,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-# Premium homepage redesign published from ChatGPT on 2026-07-16.
-# Manual preview refresh triggered on 2026-07-19.
+# Specialist portal revision deployed on 2026-07-19.
