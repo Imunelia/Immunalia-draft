@@ -59,4 +59,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-# Professional packaging now uses the approved Immunalia master logo and typography.
+# Preview refresh requested after logo and professional portal revisions on 2026-07-19.
