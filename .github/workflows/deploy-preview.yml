@@ -59,4 +59,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-# Professional product fronts use IMMUNALIA + PROFESSIONAL; Biotech remains corporate attribution.
+# Professional packaging now uses the approved Immunalia master logo and typography.
