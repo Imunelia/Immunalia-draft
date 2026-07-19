@@ -59,4 +59,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-# Manual redeploy requested on 2026-07-19 after confirming the draft publishing setup.
+# Redeploy professional product section on 2026-07-19.
