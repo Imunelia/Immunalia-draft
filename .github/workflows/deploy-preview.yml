@@ -59,4 +59,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-# Preview refresh requested after logo and professional portal revisions on 2026-07-19.
+# Complete refresh: larger professional packs and emotional consumer imagery.
